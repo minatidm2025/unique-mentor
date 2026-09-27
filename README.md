@@ -1,28 +1,41 @@
-# Unique Mentor
+# Unique Mentor – Digital Marketing Agency Website
 
-Unique Mentor is a digital marketing agency website created using WordPress.
+A professional digital marketing agency website built using WordPress. This project demonstrates website development, content structuring, on-page SEO optimization, and digital marketing service presentation.
+
+---
 
 ## Live Website
-https://uniquementor.unaux.com/
+
+**[https://uniquementor.unaux.com/](https://uniquementor.unaux.com/)**
+
+---
 
 ## Project Overview
-The website presents digital marketing services and information for businesses looking to build their online presence.
+
+Unique Mentor is a digital marketing agency website designed to help businesses grow online through SEO, social media marketing, performance marketing, content marketing, website design, and marketing automation.
+
+This project was developed to showcase practical skills in:
+
+- WordPress website development
+- On-page SEO optimization
+- Content structure and user experience
+- Digital marketing service presentation
+
+---
 
 ## Main Services
-- SEO
+
+- SEO (Search Engine Optimization)
 - Social Media Marketing
 - Performance Marketing
 - Content Marketing
-- Website & Branding
+- Website Design & Branding
 - Marketing Automation
 
-## Technology
-- WordPress
-- Astra Theme
-- WordPress page builder/Elementor (where applicable)
-- Yoast SEO
+---
 
-## Website Sections
+## Website Pages
+
 - Home
 - About
 - Services
@@ -35,17 +48,67 @@ The website presents digital marketing services and information for businesses l
 - Blog
 - Contact
 
-## SEO Work
-The project includes on-page SEO improvements such as:
-- SEO titles and meta descriptions
+---
+
+## On-Page SEO Work
+
+An On-Page SEO Audit was conducted as part of this project. Key areas covered:
+
+- Title tag optimization
+- Meta description optimization
+- Content quality evaluation
 - Heading structure
-- Image and URL optimization
-- Internal linking
-- Favicon/site icon
-- SEO-friendly page structure
+- Internal linking recommendations
+- Schema markup suggestions
+
+### SEO Audit Reports
+
+The complete audit reports are available in the `SEO-Audit` folder:
+
+- Excel Report
+- PDF Project Report
+- Word Document Report
+
+---
+
+## Technologies Used
+
+- WordPress
+- Astra Theme
+- Elementor (Page Builder)
+- Yoast SEO
+- HTML / CSS (via WordPress)
+
+---
+
+## Screenshots
+
+Screenshots of all major pages are available in the `Screenshots` folder.
+
+---
 
 ## Project Purpose
-This project was developed as a digital marketing agency website to demonstrate website development, WordPress management, SEO, content structure, and digital marketing skills.
 
-## Deployment
-Live website: https://uniquementor.unaux.com/
+This project was created as a practical digital marketing and website development assignment to demonstrate:
+
+- Building a complete service-based website
+- Implementing on-page SEO best practices
+- Structuring content for better user experience and search visibility
+- Presenting digital marketing services professionally
+
+---
+
+## How to View the Project
+
+1. Visit the live website: [https://uniquementor.unaux.com/](https://uniquementor.unaux.com/)
+2. Explore different service pages
+3. Review the SEO Audit reports in the `SEO-Audit` folder
+4. Check website screenshots in the `Screenshots` folder
+
+---
+
+## Author
+
+**Minati Choudhury**  
+Digital Marketing / Web Development Project  
+September 2026
